@@ -8,3 +8,6 @@ This overview includes an analysis of the public's initial reaction to the produ
 
 The analysis reveals that a significant portion of people are neutral about the product, while a good number of people have a positive experience with it.
 However, there is also some negative feedback, indicating a balanced view of the overall sentiment.
+
+
+# ![Alt text](https://github.com/Emanalytics7/Apple-Vision-Pro-Sentiment-Analysis/blob/main/Results.png)
